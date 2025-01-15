@@ -2,20 +2,8 @@ project:
   type: manuscript
 
 manuscript:
-  article: index.qmd
+  article: oralgnrhendo.qmd
 
-format:
-  html:
-    comments:
-      hypothesis: true
-  docx: default
-  jats: default
+format: html
 
-  # (other formats)
-  # pdf: default
-
-execute:
-  freeze: true
-
-editor: visual
 

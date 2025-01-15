@@ -1,0 +1,48 @@
+---
+title: Oral GnRH antogonists for endometriosis-associated pain
+authors:
+  - name: Noha Ali
+    affiliation: Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University
+    roles: 
+      - Data Curation 
+      - Writing – original draft preparation
+    corresponding: true
+    email: emp18112@med.asu.edu.eg
+  - name: Ashraf Nabhan
+    orcid: 0000-0003-4572-2210
+    affiliation: Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University
+    roles: 
+      - Conceptualization 
+      - Methodology 
+      - Analysis 
+      - Supervision 
+      - Writing – review and editing
+    corresponding: false
+    email: anabhan@med.asu.edu.eg
+
+keywords:
+  - Oral GnRH antagonist
+  - Endometriosis
+
+abstract: > 
+  The characteristic theme of the works of Stone is 
+  the bridge between culture and society.
+
+funding: "The author received no specific funding for this work."
+  
+bibliography: references.bib
+
+csl: biomed-central.csl
+---
+
+# Introduction
+
+CYZ @knuth84
+
+# Methods
+
+# Results
+
+# Discussion
+
+# References
